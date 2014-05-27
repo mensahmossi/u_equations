@@ -1,4 +1,4 @@
 u_equations
 ===========
 
-Modernizing the Human Exoerience
+Modernizing the Human Experience
